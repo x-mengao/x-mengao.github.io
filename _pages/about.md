@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-# **Xiaomeng "X-Men" GAO**<br/>
+## **Xiaomeng "X-Men" GAO**<br/>
 ## **高晓萌**<br/>
 
 Postdoctoral Scholar at Davis Advanced RF Technologies Lab <br/>
