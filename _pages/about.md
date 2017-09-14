@@ -9,7 +9,6 @@ redirect_from:
 ---
 
 ## **Xiaomeng "X-Men" GAO**<br/>
-## **高晓萌** 
 
 Postdoctoral Scholar at Davis Advanced RF Technologies Lab <br/>
 University of California, Davis <br/>
@@ -25,7 +24,3 @@ Sacramento, CA 95817 <br/>
 * Radar sensor for health monitoring 
 * Physiological monitoring and biomedical sensing
 * Radar and infrared based motion sensing
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
