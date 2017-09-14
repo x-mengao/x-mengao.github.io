@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcome to Xiaomeng Gao's Online CV"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## **Xiaomeng "X-Men" GAO**<br/>
-## **高晓萌**<br/>
+## **高晓萌** 
 
 Postdoctoral Scholar at Davis Advanced RF Technologies Lab <br/>
 University of California, Davis <br/>
