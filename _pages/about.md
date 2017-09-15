@@ -1,14 +1,4 @@
----
-permalink: /
-title: ""
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-
-## **Xiaomeng "X-Men" GAO**<br/>
+# **Xiaomeng "X-Men" GAO**<br/>
 
 Postdoctoral Scholar at Davis Advanced RF Technologies Lab <br/>
 University of California, Davis <br/>
