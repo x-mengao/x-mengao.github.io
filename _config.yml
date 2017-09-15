@@ -79,7 +79,7 @@ analytics:
 # Site Author
 author:
   name             : "Xiaomeng Gao"
-  avatar           : "/image/profile.png"
+  avatar           : "profile.png"
   bio              : "Born in Xi'an as a local food fanatic, finished PhD in Hawaii and currently living in California doing health sensing with radar"
   location         : "Davis, CA"
   employer         :
@@ -97,8 +97,8 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "www.linkedin.com/in/xiaomenggao"
-  orcid            : "http://orcid.org/orcid.org/0000-0003-1717-6494"
+  linkedin         : "xiaomenggao"
+  orcid            : "http://orcid.org/0000-0003-1717-6494"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
