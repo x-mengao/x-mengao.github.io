@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Xiaomeng Gao's Online CV"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
