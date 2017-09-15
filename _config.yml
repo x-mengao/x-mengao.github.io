@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xiaomeng Gao / Xiaomeng Gao's Online CV"
+title                    : "Xiaomeng Gao / Welcome to Xiaomeng Gao's Online CV"
 title_separator          : "-"
 name                     : &name "Xiaomeng Gao"
 description              : &description "personal description"
