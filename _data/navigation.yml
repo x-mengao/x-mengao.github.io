@@ -9,11 +9,11 @@ main:
   - title: "Research Projects"
     url: /portfolio/
         
-  - title: "Entrepreneurial Experience"
+  - title: "Talks"
     url: /year-archive/
     
   - title: "CV"
     url: /cv/
     
-  #- title: "Guide"
-  #  url: /markdown/
+  - title: "Entrepreneurial Experiences"
+    url: /markdown/
