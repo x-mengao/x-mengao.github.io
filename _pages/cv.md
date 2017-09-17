@@ -43,7 +43,7 @@ Academic Society Service
   * Student Design Competition Chair, Steering Committee member, 2017 IEEE MTT-S International Microwave Symposium (IMS 2017）
   * Technical Program Committee member, Enabling and Human Computer Interaction Technologies track, 36th IEEE International Conference on Consumer Electronics (ICCE 2018)
 * Society Service
-  * Volunteer, Double Blind Reviewing, 2017 IEEE MTT-S Int’l. Microwave Symposium
+  * Volunteer, Double Blind Reviewing, 2017 IEEE MTT-S International Microwave Symposium. 2016.12
   * Organizer, IEEE MTT-S Distinguished Microwave Lecturer Seminar. 2015.12
   * Secretary, IEEE MTT-S Student Branch Chapter at UH Manoa. 2014-2016
   * Vice-Chair, IEEE MTT-S Student Branch Chapter at UH Manoa. 2013-2014
@@ -51,7 +51,7 @@ Academic Society Service
   
 Outreach
 ======
-* Lab tour guide of Eng. Day, Manoa Experience, Kailua Island School Visit. 2011 - 2015
+* Lab tour guide of Engineering Day, Manoa Experience, Kailua Island School Visit. 2011 - 2015
 * Student volunteer at IEEE International Microwave Symposium. 2013 - 2015
 * Soldering station volunteer at Honolulu Maker Faire. 2014.03
 * Material Coordinator at SWE’s 6th Annual “Wow! That's Engineering!” outreach event. 2014.02
