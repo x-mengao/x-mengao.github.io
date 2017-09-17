@@ -15,27 +15,16 @@ Education
 * M.E., Xidian University, 2011 - Major: Measurement Technology and Instrumentation
 * Ph.D., University of Hawaii at Manoa, USA, 2016 - Major: Electrical Engineering
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Awards and Honors
+======
+* NSF Young Professional Award Contributing to Smart and Connected Health (Research Title: High Accuracy Non-Contact Torso Displacement Measurement Techniques for Pulse Pressure Monitoring). 2016.08
+* Science Applications International Corp (SAIC) Scholarship Award. 2015.01
+* UH-Manoa College of Engineering Outstanding PhD Student Award Nominee. 2015/2016
+* 1st Place Award in REIS Students’ Poster Competition. 2014.05
+* IEEE MTT-S PhD Graduate Student Sponsorship. 2013.07
+* Graduate Student Organization (GSO) Travel Award, University of Hawaii at Manoa. 2012/2013
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
   
 Academic Society Service
 ======
@@ -60,11 +49,9 @@ Academic Society Service
   * Vice-Chair, IEEE MTT-S Student Branch Chapter at UH Manoa. 2013-2014
   
   
-Awards and Honors
+Outreach
 ======
-* NSF Young Professional Award Contributing to Smart and Connected Health (Research Title: High Accuracy Non-Contact Torso Displacement Measurement Techniques for Pulse Pressure Monitoring). 2016.08
-* Science Applications International Corp (SAIC) Scholarship Award. 2015.01
-* UH-Manoa College of Engineering Outstanding PhD Student Award Nominee. 2015/2016
-* 1st Place Award in REIS Students’ Poster Competition. 2014.05
-* IEEE MTT-S PhD Graduate Student Sponsorship. 2013.07
-* Graduate Student Organization (GSO) Travel Award, University of Hawaii at Manoa. 2012/2013
+* Lab tour guide of Eng. Day, Manoa Experience, Kailua Island School Visit. 2011 - 2015
+* Student volunteer at IEEE International Microwave Symposium. 2013 - 2015
+* Soldering station volunteer at Honolulu Maker Faire. 2014.03
+* Material Coordinator at SWE’s 6th Annual “Wow! That's Engineering!” outreach event. 2014.02
