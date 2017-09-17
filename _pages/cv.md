@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.E. in Observation Control Techniques and Instrumentations, Xidian University, Xi'an China, 2009
-* M.E. in Measurement Technology and Instrumentation, Xidian University, Xi'an China, 2011
-* Ph.D in Electrical Engineering, University of Hawaii at Manoa, Honolulu, USA, 2016
+* B.E. in Observation Control Techniques and Instrumentations | Xidian University, China, 2009
+* M.E. in Measurement Technology and Instrumentation | Xidian University, China, 2011
+* Ph.D in Electrical Engineering, University of Hawaii at Manoa, USA, 2016
 
 Work experience
 ======
