@@ -43,20 +43,28 @@ Academic Society Service
   * IEEE Transaction on Microwave Theory and Techniques 
   * IEEE Microwave and Wireless Components Letters 
   * IEEE Sensors Journal 
-  * Annual International Conf. of the IEEE Engineering in Medicine and Biology Society 
   * IEEE Journal of Translational Engineering in Health and Medicine
   * IEEE Journal of Biomedical and Health Informatics 
   * Elsevier Biomedical Signal Processing and Control 
   * Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies 
-  * IEEE International Conference on Consumer Electronics
   * IEEE Journal on Emerging and Selected Topics in Circuits and Systems
+  * Annual International Conference of the IEEE Engineering in Medicine and Biology Society 
+  * IEEE International Conference on Consumer Electronics
 * Technical Program Committee
-  * Student Design Competition Chair, Steering Committee member, 2017 IEEE MTT-S Int’l. Microwave Symposium (IMS 2017）
+  * Student Design Competition Chair, Steering Committee member, 2017 IEEE MTT-S International Microwave Symposium (IMS 2017）
   * Technical Program Committee member, Enabling and Human Computer Interaction Technologies track, 36th IEEE International Conference on Consumer Electronics (ICCE 2018)
 * Society Service
   * Volunteer, Double Blind Reviewing, 2017 IEEE MTT-S Int’l. Microwave Symposium
-  * Organizer, IEEE MTT-S Distinguished Microwave Lecturer Seminar, 2015.12
-  * Secretary, IEEE MTT-S Student Branch Chapter at UH Manoa, 2014-2016
-  * Vice-Chair, IEEE MTT-S Student Branch Chapter at UH Manoa, 2013-2014
+  * Organizer, IEEE MTT-S Distinguished Microwave Lecturer Seminar. 2015.12
+  * Secretary, IEEE MTT-S Student Branch Chapter at UH Manoa. 2014-2016
+  * Vice-Chair, IEEE MTT-S Student Branch Chapter at UH Manoa. 2013-2014
   
   
+Awards and Honors
+======
+* NSF Young Professional Award Contributing to Smart and Connected Health (Research Title: High Accuracy Non-Contact Torso Displacement Measurement Techniques for Pulse Pressure Monitoring). 2016.08
+* Science Applications International Corp (SAIC) Scholarship Award. 2015.01
+* UH-Manoa College of Engineering Outstanding PhD Student Award Nominee. 2015/2016
+* 1st Place Award in REIS Students’ Poster Competition. 2014.05
+* IEEE MTT-S PhD Graduate Student Sponsorship. 2013.07
+* Graduate Student Organization (GSO) Travel Award, University of Hawaii at Manoa. 2012/2013
