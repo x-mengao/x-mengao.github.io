@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Welcome to My Homepage"
 title_separator          : "-"
-name                     : &name ""
+name                     : &name "Xiaomeng Gao"
 description              : &description "personal description"
 url                      : https://x-mengao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -78,7 +78,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Xiaomeng Gao"
+  name             : ""
   avatar           : "profile_resized.png"
   bio              : "Born and raised in Xi'an, lived in Hawaii for 6 years in the name of scientific research. Currently endeavouring in building the first A-Fib monitor with radar sensing technology."
   location         : "Davis, CA"
