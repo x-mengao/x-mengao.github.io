@@ -1,5 +1,5 @@
 ---
-title: "TEE681 Biosensors and Bioelectronics"
+title: "EE681 Biosensors and Bioelectronics"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2013-fall-teaching-1
