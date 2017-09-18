@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.E., Xidian University, 2009 - Major: Observation Control Techniques and Instrumentations
-* M.E., Xidian University, 2011 - Major: Measurement Technology and Instrumentation
-* Ph.D., University of Hawaii at Manoa, USA, 2016 - Major: Electrical Engineering
+* B.E., Xidian University, 2009. Major: Observation Control Techniques and Instrumentations
+* M.E., Xidian University, 2011. Major: Measurement Technology and Instrumentation
+* Ph.D., University of Hawaii at Manoa, USA, 2016. Major: Electrical Engineering
 
 
 Awards and Honors
