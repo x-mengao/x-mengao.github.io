@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate course"
 permalink: /teaching/2013-fall-teaching-1
 venue: "University of Hawaii at Manoa, Department of Electrical Engineering"
-date: 2013-08
+date: 2013-08-24
 location: "Honolulu, USA"
 ---
 
