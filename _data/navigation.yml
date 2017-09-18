@@ -10,7 +10,7 @@ main:
     url: /portfolio/
         
   - title: "Talks"
-    url: /year-archive/
+    url: /talks/
     
   - title: "CV"
     url: /cv/
