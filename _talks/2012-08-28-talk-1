@@ -1,0 +1,11 @@
+---
+title: "Non-contact Displacement Estimation Using Doppler Radar"
+collection: talks
+type: "Talk"
+permalink: /talks/2012-08-28-talk-1
+venue: "IEEE International Conference of the EMBS (EMBC)"
+date: 2012-08-28
+location: "San Diego, California"
+---
+
+In this paper we demonstrate that if relatively large motion is used to calibrate the radar system, smaller motion displacement may be acquired non-contactly with the accuracy on the order of 30 μm.
