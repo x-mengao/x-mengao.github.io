@@ -1,20 +1,13 @@
 ---
-title: "Teaching experience 2"
+title: "EE 396 & 496 Junior & Senior Project"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Undergraduate Project"
+permalink: /teaching/2012-summer-teaching-1
+venue: "University of Hawaii at Manoa, Department of Electrical Engineering"
+date: 2012-07-01
+location: "Honolulu, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+* Oversaw junior/senior students’ semester projects. Supervised progress with bi-weekly meetings and presentations.
+*	Project topics: Doppler Radar Displacement Measurements (2 students), Doppler Radar Sensing of Vital Signs (3 students), Human Torso Optical Positioning (2 students).
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
