@@ -1,0 +1,11 @@
+---
+title: "Barcode Based Hand Gesture Classification using AC Coupled Quadrature Doppler Radar"
+collection: talks
+type: "Oral Presentation"
+permalink: /talks/2013-03-01-tutorial-1
+venue: "UC-Berkeley Institute for Testing Science"
+date: 2016-05-26
+location: "San Francisco, California"
+---
+
+This paper presents a novel method of using AC coupled quadrature Doppler radar for gesture classification. A barcode is generated based on time-domain zero-crossing characteristics of quadrature components in reflected signals of hand gesture. Each motion is repeated within 60 seconds to create a distinguishable pattern on a barcode plot, which can be used for differentiation of motion types and gesture classification.
