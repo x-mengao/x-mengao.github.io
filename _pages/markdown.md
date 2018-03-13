@@ -1,3 +1,13 @@
+---
+permalink: /markdown/
+title: "Markdown"
+author_profile: true
+redirect_from: 
+  - /md/
+  - /markdown.html
+---
+
+
 ## True Presence Occupancy Detection Sensors (TruePODS)                                                         2015 - 2017      
 *VP of Technology, Adnoviv LLC* </br>
 * Co-completed NSF STTR Phase I&II, Hawaii State SBIR Grant, DoD, Army SBIR proposals and submissions. Authored STTR Phase I/IB final report. Awarded **$225k for NSF STTR Phase I**, **$80k for HSBIR**. </br>
