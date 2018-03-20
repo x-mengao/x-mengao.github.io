@@ -9,15 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+## Education
 * Ph.D., University of Hawaii at Manoa, USA, 2016. Major: Electrical Engineering
 * M.E., Xidian University, 2011. Major: Measurement Technology and Instrumentation
 * B.E., Xidian University, 2009. Major: Observation Control Techniques and Instrumentations
 
 
-Awards and Honors
-======
+## Awards and Honors
 * NSF Young Professional Award Contributing to Smart and Connected Health (Research Title: High Accuracy Non-Contact Torso Displacement Measurement Techniques for Pulse Pressure Monitoring). 2016.08
 * Science Applications International Corp (SAIC) Scholarship Award. 2015.01
 * UH-Manoa College of Engineering Outstanding PhD Student Award Nominee. 2015/2016
@@ -26,8 +24,7 @@ Awards and Honors
 * Graduate Student Organization (GSO) Travel Award, University of Hawaii at Manoa. 2012/2013
   
   
-Academic Society Service
-======
+## Academic Society Service
 * Reviewer
   * IEEE Transaction on Microwave Theory and Techniques 
   * IEEE Microwave and Wireless Components Letters 
@@ -49,8 +46,7 @@ Academic Society Service
   * Vice-Chair, IEEE MTT-S Student Branch Chapter at UH Manoa. 2013-2014
   
   
-Outreach
-======
+## Outreach
 * Lab tour guide of Engineering Day, Manoa Experience, Kailua Island School Visit. 2011 - 2015
 * Student volunteer at IEEE International Microwave Symposium. 2013 - 2015
 * Soldering station volunteer at Honolulu Maker Faire. 2014.03
