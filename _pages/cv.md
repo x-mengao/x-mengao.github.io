@@ -44,8 +44,15 @@ redirect_from:
   * Organizer, IEEE MTT-S Distinguished Microwave Lecturer Seminar. 2015.12
   * Secretary, IEEE MTT-S Student Branch Chapter at UH Manoa. 2014-2016
   * Vice-Chair, IEEE MTT-S Student Branch Chapter at UH Manoa. 2013-2014
-  
-  
+
+## Entrepreneurial Experiences
+*VP of Technology, Adnoviv LLC*
+  * Co-completed NSF STTR Phase I&II, Hawaii State SBIR Grant, DoD, Army SBIR proposals and submissions. Authored STTR Phase I/IB final report. Awarded **$225k for NSF STTR Phase I**, **$80k for HSBIR**. 
+  * **Finalist** in western region of the 2015 & 2016 DOE's National Cleantech Business Plan Competition. Delivered final presentation (15 finalists) and final fast pitch (8 selected) in 2015, and semifinal presentation (20 semi-finalists) in 2016.
+  * Showcased to HI state legislators at High Technology Development Corporation (HTDC) 2015 Innovation Crawl.
+  * Graduate of entrepreneurial training programs, including 2015 Innovation Node - Los Angeles FLoW Customer Discovery Research program (FLoW IN-LA CaDRE) and 2015 XLR8UH Cohort 2.
+
+
 ## Outreach
 * Lab tour guide of Engineering Day, Manoa Experience, Kailua Island School Visit. 2011 - 2015
 * Student volunteer at IEEE International Microwave Symposium. 2013 - 2015
