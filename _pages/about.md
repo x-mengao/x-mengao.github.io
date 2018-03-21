@@ -26,4 +26,3 @@ Sacramento, CA 95817 <br/>
 * Radar and infrared based motion sensing
 
 
-<script type="text/javascript" id="clstr_globe" src="//cdn.clustrmaps.com/globe.js?d=I2lgsetCnNxzpju--8bWjob7ynvRePSnZ-3_ARw2YhI"></script>
