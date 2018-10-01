@@ -6,7 +6,7 @@
   redirect_from: 
 ---
 
-## **Xiaomeng "X-Men" GAO**<br/>
+## **Xiaomeng GAO**<br/>
 
 Postdoctoral Scholar <br/>
 Davis Advanced RF Technologies Lab <br/>
