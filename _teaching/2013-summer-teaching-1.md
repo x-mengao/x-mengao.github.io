@@ -1,5 +1,5 @@
 ---
-title: "Summer Internship Program"
+title: "Summer Internship Program, Summer 2013"
 collection: teaching
 type: "Hign School Student Mentoring"
 permalink: /teaching/2013-summer-teaching-1
